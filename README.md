@@ -40,7 +40,6 @@ Check out some of my projects below:
 |-----------------------|-------------------------------------|-------------------------------------|
 | Personal Portfolio    | My responsive portfolio website built with HTML, CSS, and JavaScript | [GitHub Repo](https://github.com/Jacob11Q1/your-portfolio-repo) |
 | To-Do List App        | Interactive task manager app using JavaScript | [GitHub Repo](https://github.com/Jacob11Q1/your-todo-app-repo) |
-| Fitness Landing Page  | Responsive landing page for a fictional fitness coach | [GitHub Repo](https://github.com/Jacob11Q1/your-fitness-landing-page) |
 
 ---
 
