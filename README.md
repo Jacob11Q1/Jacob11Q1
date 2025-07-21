@@ -1,46 +1,45 @@
-# Hi, I'm Yacoub 👋
+👋 Hi there, I'm Yacoub Qumseya
+🚀 Aspiring Full Stack Developer | Python & JavaScript Enthusiast
+🎓 Currently leveling up at AXSOS Academy Full Stack Bootcamp
+🎨 Bridging the gap between clean code and creative design
 
-🚀 Full Stack Developer | Python & JavaScript Enthusiast  
-🎓 Currently advancing my skills at AXSOS Academy Full Stack Bootcamp  
-💻 Passionate about building clean, responsive, and user-friendly web applications
+🔧 What I’m Building:
+🧑‍💻 Personal Portfolio Website – Showcasing my skills, style & journey
 
----
+✅ To-Do List App – A sleek JavaScript-based productivity tool
 
-### 🔭 What I’m working on:
-- Personal Portfolio Website  
-- To-Do List JavaScript App  
-- Responsive Fitness Landing Page  
-- Django-based projects (in progress)
+🏋️‍♂️ Responsive Fitness Landing Page – Modern UI/UX for a fictional coach
 
----
+🌐 Django Web Apps – Building full-stack functionality (in progress)
 
-### 💡 Skills & Technologies:
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
-- **Backend:** Python, Django (learning)  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
-- **Design:** Graphic Design Basics, Adobe Photoshop, Illustrator
+🛠️ Skills & Technologies
+Frontend
+HTML5 • CSS3 • JavaScript (ES6+) • Responsive Design
 
----
+Backend
+Python • Django (currently learning)
 
-### 📫 How to reach me:
-- Email: [qumsiyeh37@gmail.com](mailto:qumsiyeh37@gmail.com)  
-- LinkedIn: [linkedin.com/in/yacoub-qumseya](https://www.linkedin.com/in/yacoub-qumseya-9227a2132/)  
+Developer Tools
+Git & GitHub • VS Code • Chrome DevTools
 
----
+Design Tools
+Adobe Photoshop • Illustrator • Graphic Design Basics
 
-### ⚡ Fun fact:
-I combine coding with creativity — thanks to my graphic design background — to build elegant and functional digital experiences.
+📬 Let’s Connect!
+📧 Email: qumsiyeh37@gmail.com
 
----
+💼 LinkedIn: linkedin.com/in/yacoub-qumseya
 
-### 📌 Pinned Projects
-Check out some of my projects below:
+💻 GitHub: github.com/Jacob11Q1
 
-| Project Name           | Description                             | Link                                  |
-|-----------------------|-------------------------------------|-------------------------------------|
-| Personal Portfolio    | My responsive portfolio website built with HTML, CSS, and JavaScript | [GitHub Repo](https://github.com/Jacob11Q1/your-portfolio-repo) |
-| To-Do List App        | Interactive task manager app using JavaScript | [GitHub Repo](https://github.com/Jacob11Q1/your-todo-app-repo) |
+✨ Fun Fact:
+My journey started in graphic design — now I blend that eye for aesthetics with coding to create engaging, user-friendly digital experiences.
 
----
+📌 Featured Projects
+🌟 Project	🧾 Description	🔗 Link
+Personal Portfolio	A responsive portfolio built using HTML, CSS, and JavaScript	View on GitHub
+To-Do List App	A clean, interactive task manager powered by JavaScript	View on GitHub
 
-Thanks for visiting! Feel free to explore my repos and connect with me.
+🚧 More exciting projects coming soon — stay tuned!
+
+Thanks for stopping by! Feel free to explore my repositories, leave feedback, or reach out — I’m always up for connecting with fellow devs and collaborators.
