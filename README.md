@@ -1,64 +1,49 @@
-# 👋 Hello, I'm Yacoub Qumseya
+# Hi there, I'm Yacoub Qumseya! 👋
 
-> 🚀 Full Stack Developer in the making | Python & JavaScript Enthusiast  
-> 🎓 Currently sharpening my skills at AXSOS Academy's Full Stack Bootcamp  
-> 🎨 Turning ideas into interactive, functional, and visually appealing web apps
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a deep interest in web development, problem solving, and personal growth through technology. Here, you'll find a range of projects — from practical utilities to experimental ideas I'm learning from.
 
-# ---------------------------------------------------------------- #
+## 🔭 Projects
 
-## 🔨 Current Projects
+- **Portfolio Website** – A personal website showcasing my projects, skills, and journey as a developer.
+- **To-Do List App** – A JavaScript-based task management app with localStorage support.
+- **[Next Project: Fitness Landing Page]** – A responsive landing page for a fictional fitness business.
 
-```yaml
-- 🌐 Personal Portfolio Website  
-  A responsive, clean portfolio built with HTML, CSS & JavaScript
+## 🌱 Learning & Growth
 
-- ✅ To-Do List App  
-  A simple yet powerful task manager using vanilla JavaScript
+I'm constantly learning and building! Currently focused on:
 
-- 🏋️‍♂️ Fitness Landing Page  
-  A fictional coach site showcasing UI/UX best practices
+- Mastering **JavaScript** and **Python**
+- Understanding **OOP & Algorithms**
+- Diving deeper into **Full Stack Projects** (React, Node.js, Django)
 
-- 🧩 Django-Based Web Apps  
-  Backend logic and database integration (in progress)
+## 👯 Collaboration
 
-# ---------------------------------------------------------------- #
+I'm open to contributing and collaborating on cool open-source or personal projects. Let’s connect if you’re building something awesome!
 
-🧠 Tech Stack
+## 💬 Ask Me About
 
-{
-  "Frontend": ["HTML5", "CSS3", "JavaScript (ES6+)", "Responsive Design"],
-  "Backend": ["Python", "Django (learning)"],
-  "Tools": ["Git", "GitHub", "VS Code", "Chrome DevTools"],
-  "Design": ["Photoshop", "Illustrator", "Graphic Design Basics"]
-}
-
-# ---------------------------------------------------------------- #
-
-📌 Featured Repositories
-💼 Project	💡 Description	🔗 Link
-Personal Portfolio	Modern, responsive portfolio website	GitHub Repo
-To-Do List App	Interactive app to manage tasks & productivity	GitHub Repo
-
-🚀 More coming soon – stay tuned!
-
-# ---------------------------------------------------------------- #
-
-📫 Contact Me
-bash
-Copy
-Edit
-Email:     qumsiyeh37@gmail.com
-LinkedIn:  linkedin.com/in/yacoub-qumseya
-GitHub:    github.com/Jacob11Q1
+- Web Dev: `HTML`, `CSS`, `JavaScript`, `React`
+- Backend: `Node.js`, `Express`, `Django`
+- Python: `OOP`, `Pandas`, `Flask`
+- Tools: `Git`, `VSCode`, `GitHub`
 
 
-# ---------------------------------------------------------------- #
+## 📫 How to Reach Me
 
-⚡ About Me
+- **Email:** qumsiyeh37@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/yacoub-qumseya-9227a2132/
 
-With a background in graphic design and a growing mastery of full stack development,
-I bring both creativity and logic to my projects. My goal? Build clean, scalable,
-and user-friendly web applications that leave a lasting impression.
-🙏 Thanks for visiting!
-Feel free to explore my repositories, leave feedback, or reach out —
-I'm always open to collaborations, mentorship, or just geeking out about code.
+## ⚡ Fun Fact
+I'm obsessed with Formula 1, love hitting the gym, and enjoy the intensity of rugby. If it’s fast, physical, or high adrenaline — I’m probably into it.
+
+## 🎯 Hobbies
+
+- 🌍 Exploring cultures and languages  
+- 📚 Reading about mindset & self-improvement  
+- 💻 Learning and coding daily  
+- ⚽ Basketball fan & player  
+- 🎧 Music lover
+
+---
+
+> Feel free to explore my repositories and drop a ⭐ if something catches your eye. Happy coding!
