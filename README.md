@@ -1,49 +1,34 @@
 # Hi there, I'm Yacoub Qumseya! 👋
+Full Stack Developer | Python & JavaScript | Web Dev Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a deep interest in web development, problem solving, and personal growth through technology. Here, you'll find a range of projects — from practical utilities to experimental ideas I'm learning from.
+Welcome to my GitHub! I’m passionate about web development, problem solving, and continuous learning. Here you'll find projects ranging from practical apps to experimental builds.
 
 ## 🔭 Projects
+- [Portfolio Website](https://github.com/Jacob11Q1/portfolio) – Personal website showcasing projects & skills (HTML, CSS, JS)
+- [To-Do List App](https://github.com/Jacob11Q1/todo-app) – Task manager with localStorage (JavaScript, HTML, CSS)
+- [Fitness Landing Page](#) – Responsive landing page for a fictional fitness business
 
-- **Portfolio Website** – A personal website showcasing my projects, skills, and journey as a developer.
-- **To-Do List App** – A JavaScript-based task management app with localStorage support.
-- **[Next Project: Fitness Landing Page]** – A responsive landing page for a fictional fitness business.
-
-## 🌱 Learning & Growth
-
-I'm constantly learning and building! Currently focused on:
-
-- Mastering **JavaScript** and **Python**
-- Understanding **OOP & Algorithms**
-- Diving deeper into **Full Stack Projects** (React, Node.js, Django)
+## 🌱 Currently Learning
+- Mastering JavaScript & Python
+- OOP & Algorithms
+- Full Stack Projects: React, Node.js, Django
 
 ## 👯 Collaboration
-
-I'm open to contributing and collaborating on cool open-source or personal projects. Let’s connect if you’re building something awesome!
+Open to contributing to open-source projects or personal collaborations. Let’s connect if you’re building something awesome!
 
 ## 💬 Ask Me About
+- Web Dev: HTML, CSS, JS, React  
+- Backend: Node.js, Express, Django  
+- Python: OOP, Pandas, Flask  
+- Tools: Git, VSCode, GitHub
 
-- Web Dev: `HTML`, `CSS`, `JavaScript`, `React`
-- Backend: `Node.js`, `Express`, `Django`
-- Python: `OOP`, `Pandas`, `Flask`
-- Tools: `Git`, `VSCode`, `GitHub`
+## 📫 Contact
+- Email: qumsiyeh37@gmail.com  
+- LinkedIn: [Yacoub Qumseya](https://www.linkedin.com/in/yacoub-qumseya-9227a2132/)
 
-
-## 📫 How to Reach Me
-
-- **Email:** qumsiyeh37@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/yacoub-qumseya-9227a2132/
-
-## ⚡ Fun Fact
-I'm obsessed with Formula 1, love hitting the gym, and enjoy the intensity of rugby. If it’s fast, physical, or high adrenaline — I’m probably into it.
-
-## 🎯 Hobbies
-
-- 🌍 Exploring cultures and languages  
-- 📚 Reading about mindset & self-improvement  
-- 💻 Learning and coding daily  
-- ⚽ Basketball fan & player  
-- 🎧 Music lover
+## ⚡ Interests
+Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Traveling 🌍
 
 ---
 
-> Feel free to explore my repositories and drop a ⭐ if something catches your eye. Happy coding!
+⭐ Explore my repos and star the ones you like! Happy coding!
