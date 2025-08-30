@@ -4,7 +4,7 @@ Full Stack Developer | Python & JavaScript | Web Dev Enthusiast
 Welcome to my GitHub! I’m passionate about web development, problem solving, and continuous learning. Here you'll find projects ranging from practical apps to experimental builds.
 
 ## 🔭 Projects
-- [Portfolio Website](https://github.com/Jacob11Q1/portfolio) – Personal website showcasing projects & skills (HTML, CSS, JS)
+- [Portfolio Website](https://jacob11q1.github.io/Jacob-s-Portfolio/) – Personal website showcasing projects & skills (HTML, CSS, JS)
 - [To-Do List App](https://github.com/Jacob11Q1/todo-app) – Task manager with localStorage (JavaScript, HTML, CSS)
 - [Fitness Landing Page](#) – Responsive landing page for a fictional fitness business
 
