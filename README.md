@@ -1,7 +1,3 @@
-<!-- Animated Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yacoub+Qumseya+👋;Full+Stack+Developer+💻;Python+%7C+JavaScript+%7C+Django;Always+learning+new+things+🚀" alt="Typing SVG" />
-</p>
 
 <!-- Cool Divider -->
 <p align="center">
