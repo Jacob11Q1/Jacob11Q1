@@ -63,3 +63,18 @@ Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Travelin
 
 ## ⭐ GitHub Stats
 ![JQ11's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob11Q1&show_icons=true&theme=radical)
+
+<!-- Wavy Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
+
+<!-- Snake Contribution Graph -->
+<p align="center">
+  <img src="https://github.com/Jacob11Q1/Jacob11Q1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<!-- Closing Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+🙏;Don't+forget+to+⭐+my+repos+✨;Happy+Coding+💻" alt="Typing SVG" />
+</p>
