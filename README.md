@@ -1,6 +1,5 @@
-<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Yacoub+Qumseya+👋;Full+Stack+Developer+💻;Python+%7C+JavaScript+%7C+Django;Always+Learning+New+Things+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Yacoub+Qumseya+👋;Full+Stack+Developer+💻;Python+%7C+JavaScript+%7C+Django;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 <!-- Wavy Header -->
