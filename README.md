@@ -69,6 +69,11 @@ Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Travelin
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jacob11Q1&theme=radical&hide_title=true&hide_rank=true&show_icons=false" />
+</p>
+
+
 <!-- Wavy Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
