@@ -66,7 +66,7 @@ Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Travelin
 
 
 
-<!-- Closing Typing Effect -->
+<!-- Wavy Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+🙏;Don't+forget+to+⭐+my+repos+✨;Happy+Coding+💻" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
