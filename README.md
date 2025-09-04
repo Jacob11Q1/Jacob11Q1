@@ -44,6 +44,11 @@ I love building projects, solving problems, and continuously improving my skills
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob11Q1&layout=compact&theme=radical" height="160" />
 </p>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jacob11Q1&color=blue" alt="Visitor Count" />
+</p>
+
 ---
 
 ## 🤝 Collaboration
@@ -63,17 +68,6 @@ Let’s build something awesome together! 🚀
 Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Traveling 🌍  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacob11Q1&show_icons=true&theme=radical" alt="Jacob11Q1's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob11Q1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 <!-- Wavy Footer -->
 <p align="center">
