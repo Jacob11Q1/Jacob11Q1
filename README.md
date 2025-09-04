@@ -69,9 +69,11 @@ Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Travelin
 
 ---
 
+<!-- Animated Skills Bar-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jacob11Q1&theme=radical" />
 </p>
+
 
 <!-- Wavy Footer -->
 <p align="center">
