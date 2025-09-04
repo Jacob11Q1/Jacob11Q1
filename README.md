@@ -46,7 +46,7 @@ I love building projects, solving problems, and continuously improving my skills
 
 <!-- GitHub Trophies - Awards -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jacob11Q1&theme=radical&row=1&column=7" />
+  <img src="https://readme-quotes.vercel.app/api?theme=radical" alt="Random Quote" />
 </p>
 
 <!-- Visitor Counter -->
