@@ -2,7 +2,7 @@ name: GitHub Snake Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,13 +18,12 @@ jobs:
           github_user_name: Jacob11Q1
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push to Output Branch
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Update snake graph" || echo "No changes to commit"
-          git branch -M output
-          git push -u origin output --force
+          git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
