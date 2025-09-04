@@ -63,3 +63,13 @@ Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Travelin
 
 ## ⭐ GitHub Stats
 ![JQ11's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacob11Q1&show_icons=true&theme=radical)
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yacoub+Qumseya+👋;Full+Stack+Developer+💻;Python+%7C+JavaScript+%7C+Django;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
+
+<!-- Wavy Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome+to+my+GitHub!&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
