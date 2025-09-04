@@ -44,7 +44,7 @@ I love building projects, solving problems, and continuously improving my skills
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob11Q1&layout=compact&theme=radical" height="160" />
 </p>
 
-<!-- GitHub Trophies - Awards -->
+<!-- Skill Badges / Animated Bars -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
