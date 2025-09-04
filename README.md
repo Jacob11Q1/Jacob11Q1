@@ -64,10 +64,6 @@ Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Travelin
 
 ---
 
-<!-- Snake Contribution Graph -->
-<p align="center">
-  <img src="https://github.com/Jacob11Q1/Jacob11Q1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 <!-- Wavy Footer -->
 <p align="center">
