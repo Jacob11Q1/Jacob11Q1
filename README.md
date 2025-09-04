@@ -1,3 +1,4 @@
+<!-- Animated Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Yacoub+Qumseya+👋;Full+Stack+Developer+💻;Python+%7C+JavaScript+%7C+Django;Always+Learning+🚀" alt="Typing SVG" />
 </p>
@@ -75,5 +76,5 @@ Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Travelin
 
 <!-- Typing Outro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00E7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Don't+forget+to+⭐+my+repos+✨;Happy+Coding+💻" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00E7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Don't+forget+to+⭐+my+repos+✨;Happy+Coding+💻" alt="Typing SVG"/>
 </p>
