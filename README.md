@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about web development, problem solving, and
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| Portfolio Website | Personal website showcasing projects & skills | HTML, CSS, JS | [Repo](https://github.com/Jacob11Q1/portfolio) |
+| Portfolio Website | Personal website showcasing projects & skills | HTML, CSS, JS | [Repo](https://jacob11q1.github.io/Jacob-s-Portfolio/) |
 | To-Do List App | Task manager with localStorage | JavaScript, HTML, CSS | [Repo](https://github.com/Jacob11Q1/todo-app) |
 | Fitness Landing Page | Responsive landing page for a fictional fitness business | HTML, CSS, JS | [Repo](https://github.com/Jacob11Q1/fitness-landing) |
 
