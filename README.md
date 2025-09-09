@@ -36,21 +36,23 @@ I love building projects, solving problems, and continuously improving my skills
 ## 📈 GitHub Stats
 
 <p align="center">
+  <!-- GitHub overall stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Jacob11Q1&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacob11Q1&theme=radical" height="160" />
+  <!-- Streak stats (fixed to Vercel version) -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Jacob11Q1&theme=radical" height="160" />
 </p>
 
 <p align="center">
+  <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob11Q1&layout=compact&theme=radical" height="160" />
 </p>
 
-<!-- Skill Badges / Animated Bars -->
+<!-- Skill Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
-
 
 <!-- Visitor Counter -->
 <p align="center">
