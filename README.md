@@ -1,91 +1,113 @@
-<!-- Animated Typing Intro -->
+<!-- Hero Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Yacoub+Qumseya+👋;Full+Stack+Developer+💻;Python+%7C+JavaScript+%7C+Django;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Yacoub+Qumseya+⚡;Full+Stack+Developer+💻;Python+%7C+Django+%7C+JavaScript+%7C+React;Enterprise+Solutions+Architect+🌍;From+Bootcamp+to+Battlefield+🚀" alt="Typing SVG" />
 </p>
 
-<!-- Wavy Header -->
+<!-- Cinematic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome+to+My+GitHub&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</p>
-
-# 👨‍💻 About Me
-Hi! I’m **Yacoub Qumseya**, a passionate **Full Stack Developer** from **Palestine**.  
-I love building projects, solving problems, and continuously improving my skills.
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,flask,git,github,vscode" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=⚡+Code.+Create.+Conquer.+⚡&fontSize=28&fontAlignY=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 🎬 Who Am I?  
+> **“Code is my canvas, architecture is my craft.”**  
 
-- **🌐 Portfolio Website** – Personal site showcasing my work *(HTML, CSS, JS)*  
-- **📝 To-Do List App** – Task manager with localStorage *(JavaScript, HTML, CSS)*  
-- **💪 Fitness Landing Page** – Responsive page for a fictional fitness business  
-- **🐍 Python OOP Projects** – Exercises & assignments *(Python, OOP, Algorithms)*  
+I’m **Yacoub Qumseya**, a **Full Stack Developer** from **Palestine**.  
+I build software that feels like cinema — bold, seamless, and unforgettable.  
 
-➡️ Check out my repos for more cool projects!
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacob11Q1&show_icons=true&theme=radical" height="160" />
-  <!-- Streak stats (fixed to Vercel version) -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Jacob11Q1&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob11Q1&layout=compact&theme=radical" height="160" />
-</p>
-
-<!-- Skill Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jacob11Q1&color=blue" alt="Visitor Count" />
-</p>
+✅ **Bootcamp Graduate → Production-Ready Engineer**  
+✅ Specializing in **SaaS platforms, ERP/WMS systems, and scalable review apps**  
+✅ Driven by **performance, design, and security-first principles**  
 
 ---
 
-## 🤝 Collaboration
+## 🚀 Arsenal of Technology  
 
-I’m open to collaborating on **open-source projects, personal projects, or hackathons**.  
-Let’s build something awesome together! 🚀
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,nodejs,express,ts,flask,html,css,bootstrap,tailwind,mysql,postgres,git,github,docker,aws,vscode,figma" />
+</p>
+
+**Frontend:** React, Tailwind, Bootstrap, Vanilla JS  
+**Backend:** Django, Flask, Node.js  
+**Database:** PostgreSQL, MySQL, SQLite  
+**Cloud & DevOps:** AWS, Render, Docker, GitHub Actions  
+**Extras:** Figma (UI/UX), REST APIs, JWT Auth  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **qumsiyeh37@gmail.com**  
-- 💼 LinkedIn: [Yacoub Qumseya](https://www.linkedin.com/in/yacoub-qumseya-9227a2132)  
+## 🌌 Flagship Projects  
+
+🎬 **RateUp** *(Team Project)*  
+> A SaaS-level IMDb clone.  
+- Built with Django, DRF, MySQL  
+- Categories, reviews, upcoming movies API  
+- Team of 4 — enterprise practices, polished delivery  
+
+📦 **WareQ WMS** *(Solo Project)*  
+> An Odoo-inspired Warehouse Management System.  
+- Django + MySQL core  
+- Inventory, stock movement, audit trails, modular apps  
+- Designed for **scalability** + future **React integration**  
+
+🌐 **Portfolio Website**  
+> Dark/light themed personal portfolio.  
+- HTML, CSS, JS  
+- Elegant toggle design  
+
+➡️ More SaaS-level builds in my repos 🚀  
 
 ---
 
-## ⚡ Interests
+## 🎨 GitHub Showcase  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jacob11Q1&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacob11Q1&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob11Q1&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+## ⚔️ Developer Code of Honor  
+
+- **Security First** 🛡 — no weak links, no shortcuts  
+- **Enterprise Standards** 📈 — SaaS-grade, modular, production-ready  
+- **Cinematic Design** 🎥 — user journeys feel like stories, not chores  
+- **Relentless Growth** 🔥 — each project sharper, cleaner, stronger  
+
+---
+
+## 🤝 Collaboration & Impact  
+
+I’m ready to collaborate on:  
+- 🚀 SaaS startups  
+- 🏭 ERP & WMS systems  
+- 📡 API-driven platforms  
+- 🏆 Hackathons & global open-source  
+
+💡 If your vision feels impossible, I’ll help make it real.  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 **qumsiyeh37@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yacoub-qumseya-9227a2132)  
+- 🐙 [GitHub](https://github.com/Jacob11Q1)  
+
+---
+
+## ⚡ Beyond Code  
+
 Formula 1 🏎 | Gym 💪 | Rugby 🏉 | Basketball 🏀 | Music 🎧 | Traveling 🌍  
 
 ---
 
-
-<!-- Wavy Footer -->
+<!-- Cinematic Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
-
-<!-- Typing Outro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00E7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Don't+forget+to+⭐+my+repos+✨;Happy+Coding+💻" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer&text=Always+Building+%7C+Always+Evolving+%7C+Ultra+Instinct+Mode&fontSize=20&fontColor=ffffff" />
 </p>
