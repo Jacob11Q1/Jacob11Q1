@@ -57,20 +57,6 @@ I build software that feels like cinema — bold, seamless, and unforgettable.
 
 ➡️ More SaaS-level builds in my repos 🚀  
 
----
-
-## 🎨 GitHub Showcase  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacob11Q1&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacob11Q1&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob11Q1&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
----
 
 ## ⚔️ Developer Code of Honor  
 
